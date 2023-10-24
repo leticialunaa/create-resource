@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+</p>
+
 <h1> Create resource group (RSGs) </h1>
 
 In this tutorial, we will create a resource group within Azure. <br />
