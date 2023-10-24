@@ -1,14 +1,8 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
+
 
 <h1> Create resource group (NSGs) </h1>
 In this tutorial, we create a resource group within Azure. <br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -37,26 +31,32 @@ In this tutorial, we create a resource group within Azure. <br />
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/leticialunaa/create-resource/assets/146797387/875aeb37-f484-4dfc-a19b-a6827f59b9e2)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+Go to website @ www.portal.azure.com 
+Enter personal information and complete necessary steps to create a (free) Azure account.  
+
+
+![image](https://github.com/leticialunaa/create-resource/assets/146797387/353df1fb-2ea2-42bb-a369-3aaf2154c7d2)
+
+
+Complete steps to create a resource group in Azure.
+
+
+![image](https://github.com/leticialunaa/create-resource/assets/146797387/1925836f-c337-4e94-af4c-1355f730968b)
+
+
+Enter project details:
+-Subscription: Azuresubscription1
+-Resource group: RG-Lab1
+-Region: (West US 2)
+-Tags
+-Name: Creator
+-Value: Luna
+
+
+
+
+
