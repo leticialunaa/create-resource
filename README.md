@@ -34,6 +34,7 @@ In this tutorial, we create a resource group within Azure. <br />
 
 
 Go to website @ www.portal.azure.com 
+
 Enter personal information and complete necessary steps to create a (free) Azure account.  
 
 
@@ -78,13 +79,20 @@ Create resource group (validation passed) and verification.
 
 
 Create storage account. 
+
 Enter information:
 -Resource Group:
+
 -Instance details:
+
 -Storage account name:
+
 -Region:
+
 -Performance:
+
 -Redundancy:
+
 Once information is filled in click the "Review & create" button.
 Once completed go to resource. 
 
@@ -93,7 +101,9 @@ Once completed go to resource.
 ![image](https://github.com/leticialunaa/create-resource/assets/146797387/03345727-dfb2-491b-8bcd-de448ba814f0)
 
 
-Find "Containers" and click on the left column. Create "container" 
+Find "Containers" and click on the left column. 
+
+Create "container" 
 
 
 
