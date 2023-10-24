@@ -15,7 +15,7 @@ In this tutorial, we create a resource group within Azure. <br />
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- www.portal.azure.com
 
 <h2>High-Level Steps</h2>
 
