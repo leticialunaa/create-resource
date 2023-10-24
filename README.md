@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1> Create resource group (NSGs) </h1>
+In this tutorial, we create a resource group within Azure. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -25,10 +25,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Create Azure account
+- Step 2: Create resource group
+- Step 3: Edit project details
+- Step 4: Resource group (validation passed)
+- Step 5: Create storage account
+- Step 6: Containers
+- Step 7: Name file
+- Step 8: Open notepad
+- Step 9: Erase resource group
 
 <h2>Actions and Observations</h2>
 
