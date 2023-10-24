@@ -103,11 +103,47 @@ Once completed go to resource.
 
 Find "Containers" and click on the left column. 
 
-Create "container" 
+Create "Container" 
 
 
 
 ![image](https://github.com/leticialunaa/create-resource/assets/146797387/8730f790-252b-4a4e-8afd-06dca9c87e02)
+
+
+
+Enter information.
+-Name:
+
+-Access level 
+
+Finally create.
+
+
+
+![image](https://github.com/leticialunaa/create-resource/assets/146797387/3f84e575-388f-4bb2-9e4b-827bcab13244)
+
+
+
+Open Notepad: Insert text.
+
+Next save to desktop and create name file
+
+Upload to container
+
+Go to desktop
+
+Open file
+
+Upload text file to container
+
+
+![image](https://github.com/leticialunaa/create-resource/assets/146797387/5d592264-eee2-4eb6-b86e-97b26bab95d9)
+
+
+
+Erase resource group to prevent incurring fees. 
+
+
 
 
 
