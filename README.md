@@ -7,10 +7,8 @@ In this tutorial, we create a resource group within Azure. <br />
 <h2>Environments and Technologies Used</h2> 
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+
 
 <h2>Operating Systems Used </h2>
 
