@@ -1,6 +1,6 @@
 
+Create resource group (RSGs)
 
- Create resource group (RSGs) 
 In this tutorial, we create a resource group within Azure. 
 
 
