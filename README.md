@@ -1,6 +1,6 @@
 
 
-<h1> Create resource group (NSGs) </h1>
+<h1> Create resource group (RSGs) </h1>
 In this tutorial, we create a resource group within Azure. <br />
 
 
