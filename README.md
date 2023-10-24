@@ -49,11 +49,17 @@ Complete steps to create a resource group in Azure.
 
 
 Enter project details:
+
 -Subscription: Azuresubscription1
+
 -Resource group: RG-Lab1
+
 -Region: (West US 2)
+
 -Tags
+
 -Name: Creator
+
 -Value: Luna
 
 
