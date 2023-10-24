@@ -1,21 +1,19 @@
-
 Create resource group (RSGs)
 
 In this tutorial, we create a resource group within Azure. 
 
-
-Environments and Technologies Used
+*Environments and Technologies Used
 
 - Microsoft Azure 
 - Various Command-Line Tools
 
 
-Operating Systems Used 
+*Operating Systems Used 
 
 - Windows 10 (21H2)
 - www.portal.azure.com
 
-High-Level Steps
+*High-Level Steps
 
 - Step 1: Create Azure account
 - Step 2: Create resource group
@@ -27,7 +25,7 @@ High-Level Steps
 - Step 8: Open notepad
 - Step 9: Erase resource group
 
-Actions and Observations
+*Actions and Observations
 
 
 ![image](https://github.com/leticialunaa/create-resource/assets/146797387/875aeb37-f484-4dfc-a19b-a6827f59b9e2)
