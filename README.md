@@ -6,7 +6,7 @@ In this tutorial, we create a resource group within Azure. <br />
 
 <h2>Environments and Technologies Used</h2> 
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
 - Various Command-Line Tools
 
 
