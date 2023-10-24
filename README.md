@@ -81,6 +81,7 @@ Create resource group (validation passed) and verification.
 Create storage account. 
 
 Enter information:
+
 -Resource Group:
 
 -Instance details:
