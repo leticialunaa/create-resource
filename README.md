@@ -125,7 +125,7 @@ Finally create.
 
 
 
-Open Notepad: Insert text.
+Open Notepad: (Insert text).
 
 Next save to desktop and create name file
 
@@ -142,7 +142,7 @@ Upload text file to container
 
 
 
-Erase resource group to prevent incurring fees. 
+Erase resource group (to prevent incurring fees). 
 
 
 
