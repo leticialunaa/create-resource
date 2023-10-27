@@ -144,7 +144,8 @@ Upload text file to container
 
 
 
-Erase resource group (to prevent incurring fees). 
+Erase resource group (to prevent incurring fees).
+Lab complete. 
 
 
 
